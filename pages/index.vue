@@ -6,7 +6,7 @@
         pointage-nuxt
       </h1>
       <h2 class="subtitle">
-        My dazzling Nuxt.js project
+        Tous les jours : 32 UT facturable
       </h2>
       <div class="links">
         <a href="https://nuxtjs.org/" target="_blank" class="button--green"
